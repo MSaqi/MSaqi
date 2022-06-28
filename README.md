@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MSaqi
-- 👀 I’m interested in ... GNSS-SDR,Matlab,C++,C,Python etc programming languages 
+- 👀 I’m interested in ... GNSS-SDR,Matlab,C++,C,Python,Verilog,System_verilog etc programming languages 
 - 🌱 I’m currently the student of Electrical Engeeniring in my last year.
 - 📫 How to reach me : ranasaqib4022@gmail.com
 
